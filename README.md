@@ -1,2 +1,2 @@
 # logic-keyboard
-A keyboard for typing logical (and mathematical) symbols
+A keyboard made in Java for typing logical (and mathematical) symbols
